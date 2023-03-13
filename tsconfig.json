@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "Node16",
+    "moduleResolution": "node16",
+    "target": "ES2022",
+    "sourceMap": true,
+    "baseUrl": "./",
+    "outDir": "./dist",
+    "removeComments": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "strict": true,
+    // "strictPropertyInitialization": false,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+  },
+  "exclude": ["node_modules"]
+}
